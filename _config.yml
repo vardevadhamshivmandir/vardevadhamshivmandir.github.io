@@ -1,0 +1,87 @@
+url: https://vardevadhamshivmandir.github.io
+baseurl: /
+
+# Site settings
+title: VarDeva Dham Shiv Mandir
+email: bardevadhamshivmandir@gmail.com
+description: "VarDeva Dham Shiv Mandir"
+
+
+# Team names, titles and social links
+people:
+- name: Abhay Singh
+  pic: 1
+  position: Management
+  social:
+    - title: twitter
+      url: https://twitter.com/Tsp235
+    - title: facebook
+      url: https://www.facebook.com/Abhay10790
+    - title: instagram
+      url: https://www.instagram.com/abhaysinghg007/
+
+- name: RamPukar Singh
+  pic: 2
+  position: President
+  social:
+    - title: twitter
+      url: #
+    - title: facebook
+      url: https://www.facebook.com/rampukar.singh.9678
+    - title: instagram
+      url: #
+
+- name: Ashish Singh
+  pic: 3
+  position: Lead Developer
+  social:
+    - title: github
+      url: https://github.com/siashish
+    - title: facebook
+      url: https://www.facebook.com/siashish12/
+    - title: linkedin
+      url: https://www.linkedin.com/in/siashish/
+
+- name: Dinesh Singh
+  pic: 4
+  position: Management
+  social:
+    - title: github
+      url: #
+    - title: facebook
+      url: #
+    - title: linkedin
+      url: #
+
+- name: Anand Singh
+  pic: 5
+  position: Management
+  social:
+    - title: github
+      url: #
+    - title: facebook
+      url: #
+    - title: linkedin
+      url: #
+
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+social:
+  - title: twitter
+    url: http://twitter.com/jekyllrb
+  - title: facebook
+    url: #
+  - title: stack-overflow
+    url: http://stackoverflow.com/questions/tagged/jekyll
+  - title: bitbucket 
+    url: http://bitbucket.org/jekyll
+  - title: github
+    url: http://github.com/jekyll
+
+# Postal address (add as many lines as necessary)
+address:
+  - line: lahurapur, Bhojapur
+  - line: ghazipur, uttar pradesh, 233226
+
+# Build settings
+markdown: kramdown
+permalink: pretty

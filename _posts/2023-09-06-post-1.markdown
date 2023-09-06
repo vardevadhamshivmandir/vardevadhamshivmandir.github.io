@@ -1,0 +1,15 @@
+---
+title: Foundation Stone
+subtitle: Vardeva Dham Shiv Mandir   
+layout: default
+modal-id: 1
+date: 2023-09-06
+img: foundation-stone.jpg
+thumbnail: foundation-stone-thumbnail.jpg
+alt: image-alt
+post-date: September 2023
+author: Ashish Singh
+topic: temple
+description: Laying the foundational stones of a temple is a sacred and intricate ritual, symbolizing the spiritual and physical connection between the divine and mortal realms. Each stone is placed with meticulous precision, infused with prayers and blessings, signifying the eternal bond between human devotion and architectural beauty.
+
+---

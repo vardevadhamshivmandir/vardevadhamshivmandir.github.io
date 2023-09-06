@@ -1,0 +1,15 @@
+---
+title: Prana Pratishtha
+subtitle: Vardeva Dham Shiv Mandir   
+layout: default
+modal-id: 2
+date: 2023-09-06
+img: temple.jpg
+thumbnail: temple-thumbnail.jpg
+alt: image-alt
+post-date: September 2023
+author: Ashish Singh
+topic: temple
+description: Prana Pratishtha is the sacred ritual of invoking the divine spirit into the deity, breathing life into the temple's sanctum. It infuses the idol with divine energy, establishing a profound connection between devotees and the divine, ensuring the temple becomes a conduit for spiritual grace and blessings.
+
+---
